@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and bloudy fight at Colchester, and the storming of the town by the Lord Generals forces, with the manner how they were repulsed and beaten off, and forced to retreat from the walls, and a great and terrible blow given at the said storm, by granadoes and gunpowder. Likewise their hanging out the flag of defiance, and their sallying out upon Tuesday last, all the chief officers ingaging in the said fight, and Sir Charles Lucas giving the first onset in the van, with the number killed and taken, and Sir Charles Lucas his declaration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85559</idno>
+            <idno type="STC">Wing G1633</idno>
+            <idno type="STC">Thomason E453_18</idno>
+            <idno type="STC">ESTC R202335</idno>
+            <idno type="EEBO-CITATION">99862662</idno>
+            <idno type="PROQUEST">99862662</idno>
+            <idno type="VID">161987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85559)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161987)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and bloudy fight at Colchester, and the storming of the town by the Lord Generals forces, with the manner how they were repulsed and beaten off, and forced to retreat from the walls, and a great and terrible blow given at the said storm, by granadoes and gunpowder. Likewise their hanging out the flag of defiance, and their sallying out upon Tuesday last, all the chief officers ingaging in the said fight, and Sir Charles Lucas giving the first onset in the van, with the number killed and taken, and Sir Charles Lucas his declaration.</title>
+                  <author>Lucas, Charles, Sir, 1613-1648.</author>
+                  <author>Norwich, George Goring, Earl of, 1583?-1663.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Beal, and are to be sold in the Old-Bayley, and neer Temple Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Annotation on Thomason copy: "July 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161987:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <p>A great and bloudy FIGHT AT COLCHESTER,</p>
+            <p>AND The ſtorming of the Town by the Lord Generals Forces, with the manner how they were repulſed and beaten off, and for<g ref="char:EOLhyphen"/>ced to retreat from the Walls, and a great and terrible blow given at the ſaid ſtorm, by Granadoes and Gunpow<g ref="char:EOLhyphen"/>der. Likewiſe their hanging out the Flag of Defiance, and their ſallying out upon Tueſday laſt, all the chief Officers ingaging in the ſaid Fight, and Sir <hi>Charles Lucas</hi> giving the firſt onſet in the Van, with the number killed and taken, and Sir <hi>Charles Lucas</hi> his Declaration.</p>
+            <figure/>
+            <p>
+               <hi>London</hi> Printed for <hi>G. Beal,</hi> and are to be ſold in the Old-Bayley, and neer Temple Bar, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161987:2"/>
+            <!-- PDF PAGE 7 -->
+            <pb n="1" facs="tcp:161987:2"/>
+            <!-- PDF PAGE 7 -->
+            <head>A perfect RELATION Of the bloudy ſtorming at COLCHESTER</head>
+            <div type="part">
+               <opener>
+                  <salute>Right Honoured,</salute>
+               </opener>
+               <p>YEſterday being the 18. of this inſtant, about foure of the clock in the afternoon the great Guns from <hi>Colcheſter</hi> plaid exceeding hard, both againſt our great Mount, and ſeverall other Works and For<g ref="char:EOLhyphen"/>tifications. They killed one of our Gunners at the great Mount, 3 or 4 private Souldiers, and wounded ſome few, and diſmounted one of our Pieces, and ſplit the muzzle; but we anſwered them again, and gave them three ſhots for one,
+<pb n="2" facs="tcp:161987:3"/>
+                  <!-- PDF PAGE 8 -->playing ſixe pieces altogether for the ſpace of two houres againſt their Royall Fort and in the high ſtreet.</p>
+               <p>Their chief Work which doth moſt annoy us, is their new Sconce which they have raiſed oppoſite to our great Mount, one <hi>Thompſon</hi> a Gunner ſupplying the ſame<g ref="char:punc">▪</g> who is an excel<g ref="char:EOLhyphen"/>lent Engineer, and an admirable marks man, and hath endan<g ref="char:EOLhyphen"/>gered two or three eminent Commanders; but one Mr. Smith, Gentleman of the Pikes to Col. <hi>Ewers</hi> Company, de<g ref="char:EOLhyphen"/>ſired leave to make a ſhot againſt the ſaid Sconce, which accordingly was granten, and indeed it proved an excellent one; for he diſmounted one of their great braſſe Pieces, &amp; (its ſaid) wounded the ſaid <hi>Thompſon.</hi>
+               </p>
+               <p>We have ſtormed one of their ſtrongeſt Fortifications, neer the town, but before we could gain it, we had a hard diſputation, they knockt us off of our ladders, and threw down great ſtones and brick-bats upon us, and defended it with great reſolution; till at the laſt our men ſet to their ladders again, and up they went with great fury and reſolu<g ref="char:EOLhyphen"/>tion, and got up to the Battlemens of the Gate-houſe, ca<g ref="char:EOLhyphen"/>ſting Granados out of their hands over amongſt the Soul<g ref="char:EOLhyphen"/>diers, and one of the ſaid Granadoes falling into a roome where their Magazine lay, blew up divers barrels of pow<g ref="char:EOLhyphen"/>der, and about 60. Souldiers, giving a moſt great and terri<g ref="char:EOLhyphen"/>ble blow.</p>
+               <p>Whereupon the reſt of their men that defended the ſaid Fortification cryed out for quarter, but not above 12. men were left of 150. a very ſad ſpectacle to behold. Some arms were taken, but moſt of them ſpoyled with the blow.</p>
+               <p>This was a very conſiderable place, add advantagious to the Enemy, the loſſe of which did infuſe a great deale of wrath and terrour in the heart of Sir <hi>Charles Lucas,</hi> and cau<g ref="char:EOLhyphen"/>ſed him to make a deſperate ſalley out upon us, but were repulſed and beaten in with loſſe.</p>
+               <p>
+                  <pb n="3" facs="tcp:161987:3"/>
+                  <!-- PDF PAGE 8 -->
+Whereupon he ſhot ſeverall Granadoes out of the town and fired all the Subburbs, and upon Sunday and Munday laiſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> plaid with his great Ordnance into the Leaguer, which did ſomewhat annoy us, and killed ſome of our men, one ha<g ref="char:EOLhyphen"/>ving his leg ſhot off, another his skull broken, and ſome o<g ref="char:EOLhyphen"/>thers wounded.</p>
+               <p>They have ſeverall advantages to play upon us, which doth embolden them the more, and upon Tueſday morning laſt, before the <hi>Trevalle</hi> had beat, Sir <hi>Charles Lucas</hi> ſallyed out in perſon himſelf, together with Gen. <hi>Haſtings,</hi> Col. <hi>Luns<g ref="char:EOLhyphen"/>ford,</hi> and divers other perſons of quality, with about 400. Horſe, and 1000 Foot, and having notice of their comming, prepared to receive them, who upon their neer approach gave them ſuch a volley that they retreated, but immediat<g ref="char:EOLhyphen"/>ly rallied and came on again; inſomuch that there hapned a very ſhary diſpute betwixt both parties, and continued for the ſpace of a quarter of an hour, Sir <hi>Charles</hi> horſe was ſhot under him, and divers on both ſides wounded; but they per<g ref="char:EOLhyphen"/>ceiving Col. <hi>Whaleyes</hi> comming up with his horſe, made good their retreat and got ſafe into the town, only they loſt about 20 men in this conflict.</p>
+               <p>We have finiſhed our Battery againſt St. <hi>Iohns,</hi> and have made a great breach in the town walls, notwith<g ref="char:EOLhyphen"/>ſtanding their Woolſacks, which our Souldiers fetcht away upon their backs, and beat them out of one Court yard into another, and out of the houſe into another great houſe, do<g ref="char:EOLhyphen"/>ing ſome execution ſtill in the purſuit.</p>
+               <p>Col. <hi>Whaley</hi> with his own horſe and the Suffolk Foot hath likewiſe given them another great blow, and hath taken two of their Courts of Guards and a Church, and above 100. priſoners.</p>
+               <p>Yeſterday we received further intelligence, that Lieute<g ref="char:EOLhyphen"/>nant
+<pb n="4" facs="tcp:161987:4"/>
+                  <!-- PDF PAGE 9 -->Generall <hi>Cromwel</hi> and his Forces advanced from <hi>Pem<g ref="char:EOLhyphen"/>brook</hi> towards the North of <hi>England</hi> on Fryday laſt, and is reſolved to joyn with Major Generall <hi>Lambert,</hi> to hinder the Scots marching Southward, and to fight with them; for we are credibly informed, that they have entred <hi>England,</hi> &amp; with a very conſiderable Army, are come on this ſide of Carliſle.</p>
+               <p>we are advertized, that about 1500. men lookt upon the Eng<g ref="char:EOLhyphen"/>liſh ſhore to relieve <hi>Sandon</hi> and <hi>Deal</hi> Caſtles in <hi>Kent,</hi> but finding our Forces readier then they expected to ingage with them, they packt aboard again, and are gone to Sea. It is thought they will ſtrike in again at ſome other place; and to prevent their landing on <hi>Eſſex</hi> ſide, the L. Gen. hath ſent a ſtrong party to <hi>Harwich,</hi> and hath given notice to <hi>Norwich</hi> and <hi>Yarmouth,</hi> his Forces are even under the walls on all ſides of Colcheſter, and makes preparations as if he intended to ſtorm the town,</p>
+               <closer>
+                  <dateline>Colcheſter <date>19. July, 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <head>A briefe Abſtract of ſeverall Lettees from the North.</head>
+               <p>By letters from the North it is certified, That on Tueſday laſt Sir <hi>Marm. Langdale</hi> joyned with the Scots Army, they make about 12000 Horſe and Foot; Maj. Gen. <hi>Lambert</hi> hath ſent into York<g ref="char:EOLhyphen"/>ſhire and Lincolnſhire for more Forces, that he may fight them his Army is already conſiderable, and may fight them without diſad<g ref="char:EOLhyphen"/>vantage nothing yet of action; before next Poſt day we may heare much from thence.</p>
+               <p>The Scots poſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe Barwick, Tueſday next Col. Leſley Nephew to Gen. Leſley, is to be Governour.</p>
+               <p>
+                  <pb n="5" facs="tcp:161987:4"/>
+                  <!-- PDF PAGE 9 -->
+The Houſe receiving Letters from Major Gen. <hi>Lambert,</hi> ſignify<g ref="char:EOLhyphen"/>ing that an Army of Scots were come into this Kingdome, under the command of D. <hi>Hambleton,</hi> the Commons declared thoſe for<g ref="char:EOLhyphen"/>ces which in a hoſtile manner have entred this Kingdome to be E<g ref="char:EOLhyphen"/>nemies, and that all perſons which adhere unto them either of this Kingdom or of <hi>Ireland,</hi> are traytors and Rebels.</p>
+               <p>They debate concerning the place for the Treaty, whether at <hi>London,</hi> or ten miles diſtant, <hi>London</hi> not by any meanes thought ſe<g ref="char:EOLhyphen"/>cure, the inconveniencies being numerous, and therefore came to this Reſolution.</p>
+               <p>
+                  <q>That after the three propoſitions be conſented unto, and ſigned, as is deſired, the King ſhould be deſired to name three places within <hi>20</hi> miles of Westminster, two of which to be at leaſt ten miles diſtant from Weſtminster, where the Treaty ſhall be, and then both Houſes of Parliament ſhall have liberty to make choice of one of them as they ſhall think fit.</q>
+               </p>
+               <p>Letters from <hi>Hull</hi> ſay, that a Man of War rid neer that Towne, ſome ſhips went forth to diſcover what ſhe was they found her to be a Hollander laden with Ammunition, and good ſtore of Horſe Arms, the Maſter of the ſhip ſai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, that they were deſigned to a Gentleman of Lincolnſhire, which had formerly ſerved the King, whereupon the Governour Col. <hi>Overton</hi> ſent out a party of Horſe which brought the Gentleman into <hi>Hull.</hi>
+               </p>
+               <p>The laſt night the troops of Col. <hi>Rich</hi> his men, and thoſe of com-Gen. <hi>Iretons</hi> Regiment which have bin in purſuit of the D. of <hi>Buc<g ref="char:EOLhyphen"/>kinghams</hi> party returned back again and ferried over at <hi>Putney</hi> in<g ref="char:EOLhyphen"/>to Surrey, and are deſigned again into Kent, he feares increaſing in that county by reaſon of ſome ſhips which are ſaid to be comming thither out of <hi>Holland,</hi> with whom, the report goes, is the Duke of <hi>Yo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k</hi> or the Prine, but its rather believed (if there be either) that it is the Duke, becauſe ſome letters ſay, that he was entertained a board a little before the Prince his comming into <hi>Holland.</hi>
+               </p>
+               <p>There was a Gentleman taken at Rumford upon ſuſpirion, and in his portmantell was found many Commiſſions for Prince <hi>Charles</hi> to ſign and ſeale, and other papers of great concernment, he was brought to <hi>London,</hi> his perſon ſecured, and the papers referred to the Committee at Derby houſe.</p>
+               <p>
+                  <pb n="6" facs="tcp:161987:5"/>
+                  <!-- PDF PAGE 10 -->
+By Letters out of <hi>Kent</hi> it is advertized, that the Forces under command of Commiſſary Gen. <hi>Ireton,</hi> and Collonell <hi>Rich</hi> are in a poſture to receive the Duke of <hi>Yorkes</hi> Forces, if they land, and are very vigilant to attend the motion of them.</p>
+               <p>The Kentiſh-men have declared their reſolution to aſſiſt them, proteſting to hazard lives and fortunes for the preſer<g ref="char:EOLhyphen"/>vation of the peace of their native Country, againſt all force or power either forreign or domeſtique.</p>
+               <p>It is further advertized from <hi>Colchester,</hi> that the beſieged having received intelligence of the Duke of <hi>Yorks</hi> comming to the Downs, are grown very obſtinate and reſolute &amp; have ſet forth a flag of Defiance, and refuſeth to hearken to a ſur<g ref="char:EOLhyphen"/>render, notwithſtanding the late ſummons, and fair promiſes of the Lord Generall. Sir <hi>Charles Lucus</hi> tels the ſouldiers, that he hath received a meſſage from the Duke of <hi>Yorke,</hi> and declares, that his Highneſſe will ſend relief to them before Friday night.</p>
+               <closer>
+                  <dateline>Colcheſter <date>19. Iuly, 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
